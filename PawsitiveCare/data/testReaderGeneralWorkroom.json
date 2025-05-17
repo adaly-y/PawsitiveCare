@@ -1,0 +1,24 @@
+{
+    "pets": [
+        {
+            "name": "Max",
+            "species": "Dog",
+            "breed": "Labrador",
+            "age": 5,
+            "vaccinations": ["Rabies"],
+            "allergies": ["Peanuts"],
+            "medications": ["Antihistamine"],
+            "diet": ["Dry food"]
+        },
+        {
+            "name": "Buddy",
+            "species": "Cat",
+            "breed": "Persian",
+            "age": 3,
+            "vaccinations": ["Feline Leukemia"],
+            "allergies": ["Dust"],
+            "medications": ["Allergy Medication"],
+            "diet": ["Wet food"]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pets": [
+      {
+        "name": "Buddy",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "age": 3,
+        "vaccinations": ["Rabies", "Distemper"],
+        "allergies": ["Peanuts"],
+        "medications": ["Flea Prevention"],
+        "diet": ["Dry food", "Water"]
+      }
+    ]
+  }
+  

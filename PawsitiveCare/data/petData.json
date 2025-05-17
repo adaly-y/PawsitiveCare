@@ -1,0 +1,22 @@
+{"pets": [
+    {
+        "allergies": [],
+        "vaccinations": [],
+        "species": "feline",
+        "medications": [],
+        "name": "pet1",
+        "diet": [],
+        "breed": "dsh",
+        "age": 2
+    },
+    {
+        "allergies": [],
+        "vaccinations": [],
+        "species": "feline",
+        "medications": [],
+        "name": "pet2",
+        "diet": [],
+        "breed": "dmh",
+        "age": 9
+    }
+]}

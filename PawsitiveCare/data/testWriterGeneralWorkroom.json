@@ -1,0 +1,10 @@
+{"pets": [{
+    "allergies": ["Peanuts"],
+    "vaccinations": ["Rabies"],
+    "species": "Dog",
+    "medications": ["Antihistamine"],
+    "name": "Max",
+    "diet": ["Dry food"],
+    "breed": "Labrador",
+    "age": 5
+}]}
